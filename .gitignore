@@ -1,0 +1,6 @@
+*.tfvars
+*.hcl
+*/terraform-provider-aws_v5.44.0_x5.exe
+*.backup
+*.tfstate
+*.exe
